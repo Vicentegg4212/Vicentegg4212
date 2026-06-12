@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=170&section=header&text=Vicente%20Cruz%20Su%C3%A1rez&fontSize=42&fontColor=39d353&animation=twinkling&fontAlignY=35&desc=Desarrollador%20%7C%20Bots%20%26%20APIs%20%7C%20M%C3%A9xico&descSize=17&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=console.log%28'Hola%2C+mundo'%29%3B;Desarrollador+Full-Stack;Bots+WhatsApp+%7C+APIs+SASMEX;Automatizaci%C3%B3n+%7C+Node.js+%7C+TypeScript" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=Estudiante+de+Inform%C3%A1tica;20+a%C3%B1os+%7C+En+constante+crecimiento;Me+encanta+JavaScript+y+las+redes;Siempre+aprendiendo+cosas+nuevas" alt="typing"/>
 
 <br/>
 
@@ -19,16 +19,19 @@
 ```bash
 $ whoami
 > Vicente Cruz Suarez (@Vicentegg4212)
-> Desarrollador | Mexico
-> Enfocado en bots, APIs y automatizacion
+> 20 años | Estudiante de Lic. en Informática
+> Mexico | En proceso de crecimiento
 ```
 
-Soy desarrollador que construye soluciones utiles en produccion: **bots de WhatsApp**, **APIs de alertas sismicas**, **apps de escritorio** y herramientas de automatizacion.
+Tengo **20 años** y soy estudiante de la **Licenciatura en Informática**. Estoy en un proceso constante de crecimiento personal y profesional, y me encanta **aprender cosas nuevas** cada día.
 
-- Actualmente trabajando en bots, APIs de sismos y proyectos de automatizacion
-- Aprendiendo y mejorando en **TypeScript**, **C#** y **DevOps**
-- Me interesan los sistemas que funcionan en el mundo real, no solo en demo
-- Preguntame sobre **bots**, **APIs**, **Android/ADB** o **alertas sismicas**
+Me apasiona el mundo de las **redes**, **JavaScript** y el desarrollo de software. Fuera de la universidad, construyo proyectos reales: **bots de WhatsApp**, **APIs de alertas sismicas**, **apps de escritorio** y herramientas de automatizacion.
+
+- Estudiante de **Licenciatura en Informática**
+- En constante **crecimiento** y aprendizaje
+- Me gustan las **redes** y **JavaScript**
+- Tambien trabajo con **TypeScript**, **Node.js** y **C#**
+- Preguntame sobre **bots**, **APIs**, **redes** o **desarrollo web**
 
 ---
 
@@ -133,7 +136,11 @@ Aplicacion de escritorio para **Windows** desarrollada en **C#**.
 const dev = {
   nombre: "Vicente Cruz Suarez",
   usuario: "Vicentegg4212",
+  edad: 20,
+  estudios: "Licenciatura en Informática",
   pais: "Mexico",
+  estado: "En proceso de crecimiento",
+  intereses: ["JavaScript", "Redes", "Aprender cosas nuevas"],
   stack: ["JavaScript", "TypeScript", "Node.js", "C#"],
   disponible: true
 };
