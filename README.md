@@ -1,68 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=180&section=header&text=Vicente%20Cruz%20Su%C3%A1rez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=@Vicentegg4212&descSize=18&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff6b9d,50:c77dff,100:7afcff&height=220&section=header&text=Vicente%20Cruz%20Su%C3%A1rez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%80%8C%20%E3%83%87%E3%83%99%E3%83%AD%E3%83%83%E3%83%91%E3%83%BC%20%7C%20Bots%20%26%20Sismos%20%7C%20M%C3%A9xico%20%E3%80%8D&descSize=16&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Desarrollador+%7C+Bots+%26+Automatizaci%C3%B3n;APIs+de+sismos+%26+alertas+en+tiempo+real;WhatsApp+Bots+%7C+Node.js+%7C+TypeScript;Construyendo+proyectos+desde+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1200&color=FF6B9D&center=true&vCenter=true&width=750&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%21+%40Vicentegg4212;Building+the+future+one+commit+at+a+time+%E2%9A%A1;WhatsApp+Bots+%7C+APIs+SASMEX+%7C+Node.js;Level+up+every+day+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Vicentegg4212?style=for-the-badge&logo=github&color=181717)](https://github.com/Vicentegg4212?tab=followers)
-[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-6e40c9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vicentegg4212)
-[![Repos](https://img.shields.io/badge/Repos-11-2563eb?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Vicentegg4212?tab=repositories)
+<img src="https://media.tenor.com/YwfxAEB0UPYAAAAC/anime.gif" width="280" alt="anime"/>
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vicentegg4212-ff6b9d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vicentegg4212)
+[![Pro](https://img.shields.io/badge/Status-GitHub_Pro-c77dff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vicentegg4212)
+[![Repos](https://img.shields.io/badge/Repos-12-7afcff?style=for-the-badge&logo=git&logoColor=black)](https://github.com/Vicentegg4212?tab=repositories)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+<div align="center">
 
-Soy **Vicente Cruz Suárez**, desarrollador enfocado en **automatización**, **bots de WhatsApp** y **sistemas de alerta sísmica** para México.
+### `✧･ﾟ: *✧･ﾟ:*  プロフィール  *:･ﾟ✧*:･ﾟ✧`
 
-Me gusta crear herramientas útiles: desde APIs conectadas a **SASMEX** hasta bots con **Node.js + Baileys**, apps de escritorio y proyectos web.
-
-- 🔭 Actualmente trabajando en bots, APIs de sismos y automatización
-- 🌱 Aprendiendo y mejorando proyectos en **TypeScript**, **C#** y **DevOps**
-- 💬 Pregúntame sobre **bots**, **APIs**, **Android/ADB** o **alertas sísmicas**
-- ⚡ Fun fact: me gusta que el código funcione en producción, no solo en demo
-
----
-
-## 🚀 Proyectos destacados
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🌋 API SASMEX & Sismólogo
-API en **TypeScript** para consulta y monitoreo de alertas sísmicas.
+```diff
++ 名前 / Name:     Vicente Cruz Suárez
++ ユーザー:        @Vicentegg4212
++ ロール:          Full-Stack Dev
++ 拠点:            México 🇲🇽
++ 好きなこと:      Bots, APIs, Sismos
+```
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-2563eb?style=for-the-badge&logo=github)](https://github.com/Vicentegg4212/API-SASMEX-Y-SISMOLOGO-NACIONAL-)
+<br/>
+
+**Konnichiwa!** Soy desarrollador que convierte ideas en código con estilo anime:
+
+- `⚔️` Bots de **WhatsApp** con Node.js + Baileys
+- `🌋` APIs de **alertas sísmicas** (SASMEX)
+- `🖥️` Apps de escritorio en **C#**
+- `📱` Automatización **Android / Termux**
+
+> *"El mejor código es el que ayuda a la gente en la vida real."*
 
 </td>
-<td width="50%">
+<td width="40%" valign="top" align="center">
 
-### 🤖 BOT-AHORA-SI
-Bot de WhatsApp en **JavaScript** — automatización y comandos personalizados.
+<img src="https://media.tenor.com/L627EUKnrB0AAAAC/anime-computer.gif" width="220" alt="coding anime"/>
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-22c55e?style=for-the-badge&logo=whatsapp)](https://github.com/Vicentegg4212/BOT-AHORA-SI)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vicentegg4212.github.io-ff6b9d?style=flat-square&logo=githubpages)](https://vicentegg4212.github.io/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `✦ プロジェクト destacados ✦`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🌋 `SASMEX API`
+> *Alertas sísmicas en tiempo real*
+
+[![Repo](https://img.shields.io/badge/API_SASMEX-TypeScript-ff6b9d?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Vicentegg4212/API-SASMEX-Y-SISMOLOGO-NACIONAL-)
+
+</td>
+<td align="center" width="50%">
+
+#### 🤖 `BOT-AHORA-SI`
+> *Bot WhatsApp automatizado*
+
+[![Repo](https://img.shields.io/badge/BOT_AHORA_SI-JavaScript-7afcff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Vicentegg4212/BOT-AHORA-SI)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center">
 
-### 🌙 Luna-Botv6
-Fork del bot multifuncional: economía, minijuegos, moderación, IA y más.
+#### 🌙 `Luna-Botv6`
+> *Bot multifuncional: juegos, IA, economía*
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-8b5cf6?style=for-the-badge&logo=node.js)](https://github.com/Vicentegg4212/Luna-Botv6-Project)
+[![Repo](https://img.shields.io/badge/Luna_Botv6-Node.js-c77dff?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Vicentegg4212/Luna-Botv6-Project)
 
 </td>
-<td width="50%">
+<td align="center">
 
-### 🪟 Windows App
-Aplicación de escritorio en **C#** para Windows.
+#### 🪟 `Windows App`
+> *Aplicación de escritorio C#*
 
-[![Repo](https://img.shields.io/badge/Ver_repositorio-0ea5e9?style=for-the-badge&logo=windows)](https://github.com/Vicentegg4212/windows-app)
+[![Repo](https://img.shields.io/badge/Windows_App-CSharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/Vicentegg4212/windows-app)
 
 </td>
 </tr>
@@ -70,63 +111,34 @@ Aplicación de escritorio en **C#** para Windows.
 
 <br/>
 
-| Proyecto | Stack | Link |
-|----------|-------|------|
-| **SISMOS** | JavaScript | [github.com/Vicentegg4212/SISMOS](https://github.com/Vicentegg4212/SISMOS) |
-| **bot-v2** | JavaScript | [github.com/Vicentegg4212/bot-v2](https://github.com/Vicentegg4212/bot-v2) |
-| **Vicentegg4212.github.io** | Web | [github.com/Vicentegg4212/Vicentegg4212.github.io](https://github.com/Vicentegg4212/Vicentegg4212.github.io) |
-
----
-
-## 🛠️ Stack tecnológico
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+| `Quest Log` | Stack | Link |
+|:---:|:---:|:---:|
+| **SISMOS** | `JavaScript` | [ver repo](https://github.com/Vicentegg4212/SISMOS) |
+| **bot-v2** | `JavaScript` | [ver repo](https://github.com/Vicentegg4212/bot-v2) |
+| **Portfolio** | `Web` | [ver repo](https://github.com/Vicentegg4212/Vicentegg4212.github.io) |
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vicentegg4212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicentegg4212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9"/>
+### `✦ スキル / Tech Stack ✦`
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0ff3943.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-9368-46d5-9aa1-3e364ce16d7c.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-215f72c2-62d8-4a8-9e36-62fc7b0542f3.gif" width="100">
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicentegg4212&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicentegg4212&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=2563eb&point=38bdf8" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vicentegg4212-181717?style=for-the-badge&logo=github)](https://github.com/Vicentegg4212)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-2563eb?style=for-the-badge&logo=githubpages)](https://vicentegg4212.github.io/)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a2e)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a2e)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
@@ -134,12 +146,45 @@ Aplicación de escritorio en **C#** para Windows.
 
 <div align="center">
 
-### 💡 *"Código que resuelve problemas reales."*
+### `✦ 統計 / GitHub Stats ✦`
 
-<img src="https://komarev.com/ghpvc/?username=Vicentegg4212&label=Visitas%20al%20perfil&color=2563eb&style=flat-square" alt="Profile views"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Vicentegg4212&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=15&bg_color=1a1a2e&title_color=ff6b9d&icon_color=c77dff&text_color=ffffff"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vicentegg4212&layout=compact&theme=radical&hide_border=false&border_radius=15&bg_color=1a1a2e&title_color=ff6b9d&text_color=ffffff"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vicentegg4212&theme=radical&hide_border=false&border_radius=15&background=1a1a2e&ring=ff6b9d&fire=c77dff&currStreakLabel=7afcff" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vicentegg4212&theme=react&hide_border=false&bg_color=1a1a2e&color=ff6b9d&line=c77dff&point=7afcff&area=true" alt="activity"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `✦ コネクト / Connect ✦`
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Vicentegg4212-ff6b9d?style=for-the-badge&logo=github)](https://github.com/Vicentegg4212)
+[![Website](https://img.shields.io/badge/Web-Portfolio-c77dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vicentegg4212.github.io/)
+
+<br/>
+
+```
+╔══════════════════════════════════════╗
+║  またね! Thanks for visiting ✨      ║
+║  Let's build something epic together ║
+╚══════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=Vicentegg4212&label=Profile%20Views&color=ff6b9d&style=for-the-badge" alt="views"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,6&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,50:c77dff,100:7afcff&height=130&section=footer&animation=fadeIn"/>
+
+**Made with `♡` by Vicentegg4212**
 
 </div>
